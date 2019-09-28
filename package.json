@@ -1,0 +1,16 @@
+{
+  "name": "fjs",
+  "version": "1.0.0",
+  "description": "Slack bot that can be use to save conversation in an external drive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joe",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "googleapis": "^39.2.0",
+    "slackbots": "^1.2.0"
+  }
+}
